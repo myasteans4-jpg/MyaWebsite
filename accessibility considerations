@@ -7,6 +7,9 @@
   </head>
   <body>
     <h1>Accessibily Considerations</h1>
-    
-  </body>
+    <h1> I would intend to implement accessibility on my website by building a digital space, using clear code and design so that people can navigate and use them 
+on my website. In my website, I included four hobbies. Each hobby is grouped into categories based on the kind of activity involved. For HTML, I use a tag called 
+<h1>, for heading and proper form labels. I’m also using links on my hobby website to explore each hobby and explain what it is all about. I also add clear images of 
+my hobbies. Each image will introduce that hooby is and explain what to do.</h1>
+  </body> 
 </html>
