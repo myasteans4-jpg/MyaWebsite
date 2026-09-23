@@ -1,17 +1,20 @@
-
-<DOCTYPE html>
-<html>
+<html lang = "en">
   <head>
-    <title>My Hobby Wesite</title>
-    <link rel = "stylesheet" href = "mystyles.css">
-    <style>
-      h1 {color: purple;}
-      .color1 {color: yellow}
-      #color2 {color: blue}
-    </style>
-  </head>
-  <body>
+    <meta name-"viewpoint" content-"width-device-width, initial-scale-1">
+    <title>My Hobby Website</title>
+    <link rel = "stylesheet" href = "stylesheet.css">
 
+    </head>
+    <body>
+       <nav class="navbar">
+      <! -- Navigation Links -->
+    <ul class="nav-link">
+      <li><a href-"index.html">Home</a><>/li>
+      <li><a href-"aboutus.html">About</a><>/li>
+      <li><a href-"accessibility.html">Accessibility Considerations</a><>/li>
+      <li><a href-"contactus.html">Contact</a><>/li>
+    </ul>
+  </nav>
      <h1>Accessibily Considerations</h1>
      <a href = I would incorporate accessibility on my website by making it usable for everyone to use. I would also incorporate accessibility on my website by using clear 
 headings, color, navigation and images. I would add the correct order for titles and subtitles (h1, h2, h3) so people can easily read my page. I would add the right 
