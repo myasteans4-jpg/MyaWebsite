@@ -27,7 +27,8 @@ page. I would add the right color for the text and background that stand out wel
 works when I'm using only the keyboard's tab and arrow keys. I would add clear images of the hobbies I chose. Each image will introduce that hobby and explain about 
 it. Everyone will get to learn, explore and use my website. This isn't just my website, it's for everyone to learn and enjoy.</h1>
 
-    <h2> Other Considerations</2>
+    <h2> Other Considerations</h2>
+    <h2 style = "color:orange">
     <ul>
       <li>Tables</li>
       <li>Images</li>
