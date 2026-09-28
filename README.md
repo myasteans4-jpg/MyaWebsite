@@ -6,4 +6,4 @@
 <img width="378" height="252" alt="OIP" src="https://github.com/user-attachments/assets/0eecbb1f-0dd9-4cfa-8772-2286328fdb69" />
 
 
-<img width="2940" height="1960" alt="indian-family-eating-and-drinking-at-dining-table-at-home-in-the-evening-generative-ai-photo" src="https://github.com/user-attachments/assets/b942ca69-012b-457c-b958-776710833be9" />
+<img width="1400" height="934" alt="f6be671d5ad66438e1e1ac5c921ec60f" src="https://github.com/user-attachments/assets/806a20f1-8001-40f7-b87d-a4fcd3e6ac4a" />
