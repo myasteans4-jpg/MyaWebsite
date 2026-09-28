@@ -6,7 +6,6 @@
 <img width="378" height="252" alt="OIP" src="https://github.com/user-attachments/assets/0eecbb1f-0dd9-4cfa-8772-2286328fdb69" />
 
 
-<img width="674" height="1080" alt="3 -Mountains-674x1080" src="https://github.com/user-attachments/assets/b44eef1e-7d48-4f3f-9ebe-3691408351b7" />
 
 
 
