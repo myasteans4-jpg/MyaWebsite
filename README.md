@@ -1,3 +1,4 @@
+<img width="700" height="1100" alt="Easy-meals-to-make-at-home-collage" src="https://github.com/user-attachments/assets/1b2d207e-5d69-45d4-87fa-0861ff564c70" />
 # MyaWebsite
 
 <img width="236" height="296" alt="OIP" src="https://github.com/user-attachments/assets/b9af2d73-63d1-4578-be72-bc265850ac30" />
