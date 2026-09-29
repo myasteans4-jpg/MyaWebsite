@@ -6,8 +6,6 @@
 <img width="378" height="252" alt="OIP" src="https://github.com/user-attachments/assets/0eecbb1f-0dd9-4cfa-8772-2286328fdb69" />
 
 
-<img width="484" height="356" alt="istockphoto-471010424-170667a" src="https://github.com/user-attachments/assets/1dcc83c7-b282-4d2f-a13b-42c9f1dbfd08" />
-
 
 
 
