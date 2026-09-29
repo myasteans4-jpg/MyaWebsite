@@ -1,4 +1,4 @@
-<img width="1730" height="1297" alt="house-drawing-for-kids-step-9" src="https://github.com/user-attachments/assets/21a02936-1da3-4ff8-a2a1-01db7b138f0d" />
+<img width="474" height="710" alt="OIP" src="https://github.com/user-attachments/assets/6aececbf-e3a8-4b2e-922a-08ef63c18335" />
 # MyaWebsite
 
 <img width="236" height="296" alt="OIP" src="https://github.com/user-attachments/assets/b9af2d73-63d1-4578-be72-bc265850ac30" />
