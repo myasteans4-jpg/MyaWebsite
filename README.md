@@ -1,4 +1,4 @@
-<img width="674" height="1080" alt="3 -Mountains-674x1080" src="https://github.com/user-attachments/assets/c540ae99-b0cd-4479-beb7-6679856afcff" />
+<img width="750" height="750" alt="ba6636bb826217e9c7d4b6281beec711" src="https://github.com/user-attachments/assets/266118c0-cd09-40aa-96e0-18dc6cd1ffdc" />
 # MyaWebsite
 
 <img width="236" height="296" alt="OIP" src="https://github.com/user-attachments/assets/b9af2d73-63d1-4578-be72-bc265850ac30" />
