@@ -7,6 +7,7 @@
 <img width="378" height="252" alt="OIP" src="https://github.com/user-attachments/assets/0eecbb1f-0dd9-4cfa-8772-2286328fdb69" />
 
 
+<img width="507" height="338" alt="istockphoto-476224045-170667a" src="https://github.com/user-attachments/assets/08170a86-beba-40d8-b0c7-d75ae3ed55ed" />
 
 
 
