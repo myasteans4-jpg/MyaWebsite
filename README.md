@@ -1,4 +1,4 @@
-<img width="1024" height="1024" alt="ChatGPT-Image-Apr-8-2025-04_16_00-PM" src="https://github.com/user-attachments/assets/99b60b4f-c1b9-477f-abf1-d85487b4e102" />
+<img width="200" height="300" alt="books-aesthetic-drawing-200x300" src="https://github.com/user-attachments/assets/4427b9b7-06e3-4e06-88f0-f7812811ac50" />
 
 # MyaWebsite
 
