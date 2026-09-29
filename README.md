@@ -1,4 +1,5 @@
-<img width="2000" height="2000" alt="children-hobbies-set_1284-37168" src="https://github.com/user-attachments/assets/650759fd-3eee-49be-9b32-3a85d67ce6a3" />
+<img width="750" height="500" alt="2202-m01-i021-n024-mainpreview-722f8e2e075edb3c08c8343361bd2f89b16da66809e6b8ef79c8a9990201dc1f" src="https://github.com/user-attachments/assets/1370bdad-0cf7-46cb-afe9-e52a2d80c788" />
+
 # MyaWebsite
 
 <img width="236" height="296" alt="OIP" src="https://github.com/user-attachments/assets/b9af2d73-63d1-4578-be72-bc265850ac30" />
