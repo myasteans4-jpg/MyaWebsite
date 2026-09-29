@@ -6,7 +6,7 @@
 <img width="378" height="252" alt="OIP" src="https://github.com/user-attachments/assets/0eecbb1f-0dd9-4cfa-8772-2286328fdb69" />
 
 
-<img width="1300" height="956" alt="students-studying-together-in-the-library-EN6EDY" src="https://github.com/user-attachments/assets/a8e58b1a-c500-408d-945d-fc433f699bc2" />
+<img width="2858" height="4287" alt="balance-ballerina-ballet-1886694" src="https://github.com/user-attachments/assets/a0a926b6-0195-43b8-9f6a-5228b20fe237" />
 
 
 
@@ -20,7 +20,6 @@
 
 
 
-<img width="260" height="280" alt="hobby-icons-set-pack-symbol-260nw-2148202549" src="https://github.com/user-attachments/assets/606aec1a-5826-4fc5-a58d-39f9f41bc2e8" />
 
 
 
