@@ -1,3 +1,4 @@
+<img width="600" height="403" alt="cute-watermelon-drawing-sketches-for-kids" src="https://github.com/user-attachments/assets/180e46ea-9188-4e06-a9c9-d36fdf4ae6e2" />
 # MyaWebsite
 
 <img width="236" height="296" alt="OIP" src="https://github.com/user-attachments/assets/b9af2d73-63d1-4578-be72-bc265850ac30" />
