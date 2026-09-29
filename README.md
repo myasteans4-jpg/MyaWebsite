@@ -1,4 +1,4 @@
-<img width="1080" height="1920" alt="35ba692ea52f3f584ff761143c7e16f2" src="https://github.com/user-attachments/assets/28f6933f-a078-4bf1-b5e3-c3a2fdcc7327" />
+<img width="2000" height="2000" alt="children-hobbies-set_1284-37168" src="https://github.com/user-attachments/assets/650759fd-3eee-49be-9b32-3a85d67ce6a3" />
 # MyaWebsite
 
 <img width="236" height="296" alt="OIP" src="https://github.com/user-attachments/assets/b9af2d73-63d1-4578-be72-bc265850ac30" />
