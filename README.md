@@ -1,4 +1,4 @@
-<img width="360" height="512" alt="child-teen-girl-dancing-rumba-samba-cha-cha-cha-ballroom-dance-school-teenager-kids-girl-dress-movement-ballroom-teenager-264032130" src="https://github.com/user-attachments/assets/ec7393e0-0a6e-414b-9868-46d143587ce0" />
+<img width="4479" height="3360" alt="a8e3ef823171af59f4578d9db398bb30" src="https://github.com/user-attachments/assets/b8a62a72-99b0-47df-bca4-4c620915db11" />
 # MyaWebsite
 
 <img width="236" height="296" alt="OIP" src="https://github.com/user-attachments/assets/b9af2d73-63d1-4578-be72-bc265850ac30" />
