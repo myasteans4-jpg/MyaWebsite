@@ -1,4 +1,4 @@
-<img width="2160" height="3840" alt="3c4abf01f60f01c877065733e7cfb447" src="https://github.com/user-attachments/assets/06b09572-55d1-40de-b6a8-e027db83eb14" />
+<img width="612" height="326" alt="istockphoto-1334841079-612x612" src="https://github.com/user-attachments/assets/bcf3d57e-a136-4346-96a2-c738dde4de63" />
 # MyaWebsite
 
 <img width="236" height="296" alt="OIP" src="https://github.com/user-attachments/assets/b9af2d73-63d1-4578-be72-bc265850ac30" />
