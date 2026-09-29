@@ -1,5 +1,4 @@
-<img width="200" height="300" alt="books-aesthetic-drawing-200x300" src="https://github.com/user-attachments/assets/4427b9b7-06e3-4e06-88f0-f7812811ac50" />
-
+<img width="500" height="500" alt="f85253f40c238064ac8097bd002a723a" src="https://github.com/user-attachments/assets/5bb441aa-292e-4cd4-8da9-7390790b53cf" />
 # MyaWebsite
 
 <img width="236" height="296" alt="OIP" src="https://github.com/user-attachments/assets/b9af2d73-63d1-4578-be72-bc265850ac30" />
