@@ -1,3 +1,4 @@
+<img width="1500" height="1053" alt="stock-photo--large-group-of-young-people-having-fun-and-jumping-on-the-beach-at-sunset-289741463" src="https://github.com/user-attachments/assets/93c5cc85-d455-4637-8b79-a1b974727640" />
 # MyaWebsite
 
 <img width="236" height="296" alt="OIP" src="https://github.com/user-attachments/assets/b9af2d73-63d1-4578-be72-bc265850ac30" />
