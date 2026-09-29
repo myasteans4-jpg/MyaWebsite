@@ -1,4 +1,3 @@
-<img width="1300" height="956" alt="students-reading-books-in-library-ENMRH8" src="https://github.com/user-attachments/assets/8b858539-e944-45e9-97e4-04f10e704ffa" />
 # MyaWebsite
 
 <img width="236" height="296" alt="OIP" src="https://github.com/user-attachments/assets/b9af2d73-63d1-4578-be72-bc265850ac30" />
@@ -7,6 +6,7 @@
 <img width="378" height="252" alt="OIP" src="https://github.com/user-attachments/assets/0eecbb1f-0dd9-4cfa-8772-2286328fdb69" />
 
 
+<img width="1300" height="956" alt="students-studying-together-in-the-library-EN6EDY" src="https://github.com/user-attachments/assets/a8e58b1a-c500-408d-945d-fc433f699bc2" />
 
 
 
