@@ -19,7 +19,8 @@
 
 
 
-<img width="1280" height="1280" alt="cambridge-7610410_1280" src="https://github.com/user-attachments/assets/2717ad46-e38d-43c2-991f-0a49156a4160" />
+<img width="260" height="280" alt="hobby-icons-set-pack-symbol-260nw-2148202549" src="https://github.com/user-attachments/assets/606aec1a-5826-4fc5-a58d-39f9f41bc2e8" />
+
 
 
 
