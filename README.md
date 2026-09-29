@@ -1,3 +1,4 @@
+<img width="1200" height="673" alt="pngtree-kids-hobbies-hobby-kid-child-picture-image_8735746" src="https://github.com/user-attachments/assets/722c901a-5f99-422f-a866-a74b17f3e609" />
 # MyaWebsite
 
 <img width="236" height="296" alt="OIP" src="https://github.com/user-attachments/assets/b9af2d73-63d1-4578-be72-bc265850ac30" />
