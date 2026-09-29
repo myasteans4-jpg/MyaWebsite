@@ -1,4 +1,3 @@
-<img width="1380" height="920" alt="modern-illustration-featuring-multiple-colorful-websites-displayed-different-devices-including-desktop-computer-tablet-smartphone_520881-9056" src="https://github.com/user-attachments/assets/f8a6f78e-c809-4ed1-a6cf-add92902374f" />
 # MyaWebsite
 
 <img width="236" height="296" alt="OIP" src="https://github.com/user-attachments/assets/b9af2d73-63d1-4578-be72-bc265850ac30" />
@@ -6,6 +5,7 @@
 <img width="335" height="234" alt="download" src="https://github.com/user-attachments/assets/06722887-2506-4d3a-ae04-e91bb3784805" />
 <img width="378" height="252" alt="OIP" src="https://github.com/user-attachments/assets/0eecbb1f-0dd9-4cfa-8772-2286328fdb69" />
 
+<img width="474" height="289" alt="OIP" src="https://github.com/user-attachments/assets/58b9dfb3-02c8-4491-b364-f7a050c03f37" />
 
 
 
