@@ -1,4 +1,4 @@
-<img width="309" height="234" alt="OIP" src="https://github.com/user-attachments/assets/cdf33ca1-84aa-413e-b1cd-93cc0932c161" />
+<img width="1300" height="908" alt="group-of-people-learning-to-use-computers-in-classroom-2JK822B" src="https://github.com/user-attachments/assets/34534b47-d675-4818-91f0-c0a7e15d64a5" />
 # MyaWebsite
 
 <img width="509" height="339" alt="istockphoto-1042457242-170667a" src="https://github.com/user-attachments/assets/fbd7805d-882f-43e8-936d-fc78a252d492" />
