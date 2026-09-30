@@ -1,4 +1,4 @@
-<img width="500" height="908" alt="group-of-people-learning-to-use-computers-in-classroom-2JK822B" src="https://github.com/user-attachments/assets/34534b47-d675-4818-91f0-c0a7e15d64a5" />
+<img width="700" height="908" alt="group-of-people-learning-to-use-computers-in-classroom-2JK822B" src="https://github.com/user-attachments/assets/34534b47-d675-4818-91f0-c0a7e15d64a5" />
 # MyaWebsite
 
 <img width="400" height="339" alt="istockphoto-1042457242-170667a" src="https://github.com/user-attachments/assets/fbd7805d-882f-43e8-936d-fc78a252d492" />
