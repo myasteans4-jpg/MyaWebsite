@@ -9,8 +9,6 @@ p {background-color: orange;
 .color2 { color : indigo}
           background-color : white;
 
-nav li, .navbar li{ list-style: none;}
-
 ul, ol {
   background-color: gray;
   color: white;
@@ -44,4 +42,4 @@ ul, ol {
   font-size: 18px;
   transition: color 0.3s ease;
 }
-   
+  nav li, .navbar li{ list-style: none;}
