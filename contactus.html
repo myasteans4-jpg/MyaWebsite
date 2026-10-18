@@ -56,25 +56,21 @@
       <label for = "zip code"> Zip Code: </label>
       <input type = "type" id = "frame" name = "frame">
       <br> <br>
-      type: dropdown
-      id: rating-scale
-      attributes:
-        label: "On a scale from 1 to 5, how do you like my website?"
-        description: "1 being I hate it, 5 being I love it."
-        options:
-        "- 1 - I hate it"
-        "- 2 - I don't like it"
-        "- 3 - It's okay"
-        "- 4 - I like it"
-        "- 5 - I love it"
-     validations:
-       required: true
+      <form>
+        <p>On a scale from 1 to 5, how do you like my website? 1 being I hate it, 5 being I love it.</p>
+
+        <label><input type="radio" name="rating" value="1"> 1</label>
+        <label><input type="radio" name="rating" value="2"> 2</label>
+        <label><input type="radio" name="rating" value="3"> 3</label>
+        <label><input type="radio" name="rating" value="4"> 4</label>
+        <label><input type="radio" name="rating" value="5"> 5</label>
+      </form>
       <br> <br>
-      <label for = "feedback"> Add any questions or concerns you may have.</label>
-      <textarea id = "feedback" name = "feedback" rows = "3" col = "50"> Questions or Concerns </textarea>
+      <label for = "feedback"> Add any questions or concerns you may have. </label>
+      <textarea id = "feedback" name = "feedback" rows = "3" col = "50"> Type here </textarea>
       <br> <br>
       <label for = "feedback"> Let us know how we did! </label>
-      <textarea id = "feedback" name = "feedback" rows = "3" col = "50"> Type feedback here </textarea>
+      <textarea id = "feedback" name = "feedback" rows = "3" col = "50"> Type here </textarea>
       <br> <br>
       <input type = "submit" value = "Submit">
     </form>
