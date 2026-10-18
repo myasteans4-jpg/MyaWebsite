@@ -56,17 +56,21 @@
       <label for = "zip code"> Zip Code: </label>
       <input type = "type" id = "frame" name = "frame">
       <br> <br>
-      label: "On a scale from 1 to 5, how do you like my website?"
-      description: "1 being I hate it, 5 being I love it."
-      options:
-      "- 1 - I hate it"
-      "- 2 - I don't like it"
-      "- 3 - It's okay"
-      "- 4 - I like it"
-      "- 5 - I love it"
-  validations:
-    required: true
+      type: dropdown
+      id: rating-scale
+      attributes:
+        label: "On a scale from 1 to 5, how do you like my website?"
+        description: "1 being I hate it, 5 being I love it."
+        options:
+        "- 1 - I hate it"
+        "- 2 - I don't like it"
+        "- 3 - It's okay"
+        "- 4 - I like it"
+        "- 5 - I love it"
+     validations:
+       required: true
       <br> <br>
+      <label for = "feedback"> Add any questions or concerns you may have.</label>
       <textarea id = "feedback" name = "feedback" rows = "3" col = "50"> Questions or Concerns </textarea>
       <br> <br>
       <label for = "feedback"> Let us know how we did! </label>
